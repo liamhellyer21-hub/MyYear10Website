@@ -78,3 +78,10 @@ img {
     text-align: right;
     padding: 3em 3em;
 }
+a{
+    color: white !important;
+    text-decoration: none !important;
+}
+a:hover{
+    text-decoration: underline;
+}
