@@ -79,9 +79,7 @@ img {
     padding: 3em 3em;
 }
 a{
-    color: white !important;
-    text-decoration: none !important;
+    color: white;
+    text-decoration: none;
 }
-a:hover{
-    text-decoration: underline;
-}
+
