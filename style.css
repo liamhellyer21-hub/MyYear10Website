@@ -82,4 +82,18 @@ a{
     color: white;
     text-decoration: none;
 }
+.home-link{
+   text-align: center;
+   font-size: 1.75em;
+}
+.below-footer{
+    background-image: url('images/thorBannerGIMP.png');
+    background-size: cover;
+    background-position: center;
+    color: black;
+    text-align: right;
+    padding: 1em;
+}
+
+
 
