@@ -88,13 +88,13 @@ a{
    text-align: center;
    font-size: 1.75em;
 }
-.below-footer{
-    background-image: url('images/thorBannerGIMP.png');
+.above-footer{
+    color: black;
+    background-image: url('images/thorBannerChetgipite.png');
     background-size: cover;
     background-position: center;
-    color: rgb(16, 16, 16);
     text-align: right;
-    padding: 1em;
+    padding: 1.2em;
 }
 
 
