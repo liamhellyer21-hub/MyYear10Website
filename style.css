@@ -84,6 +84,12 @@ a{
     color: rgb(244, 244, 244);
     text-decoration: none;
 }
+.flashguy{
+   background-color: rgb(71, 71, 71);
+}
+a:hover{
+    text-decoration: underline;
+}
 .home-link{
    text-align: center;
    font-size: 1.75em;
