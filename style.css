@@ -91,8 +91,8 @@ a:hover{
     text-decoration: underline;
 }
 .home-link{
-   text-align: center;
-   font-size: 1.75em;
+    color: black;
+    text-align: center !important;
 }
 .above-footer{
     color: black;
