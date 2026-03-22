@@ -95,8 +95,8 @@ a:hover{
     text-align: center !important;
 }
 .above-footer{
-    color: black;
-    background-image: url('images/thorBannerChetgipite.png');
+    color: rgb(30, 30, 30);
+    background-image: url('images/thorBanner.png');
     background-size: cover;
     background-position: center;
     text-align: right;
